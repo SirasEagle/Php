@@ -1,0 +1,18 @@
+[
+    {
+        "exercise": "Push-ups",
+        "medRep": "15"
+    },
+    {
+        "exercise": "Pull-up",
+        "medRep": "5"
+    },
+    {
+        "exercise": "Sit-ups",
+        "medRep": "15"
+    },
+    {
+        "exercise": "a",
+        "medRep": "b"
+    }
+]
